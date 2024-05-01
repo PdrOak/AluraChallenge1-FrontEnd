@@ -1,0 +1,27 @@
+.area__codigo{
+    background-color: var(--azul-claro);
+    width: 50%;
+    margin-right: 25px;
+    height: 366px;
+}
+
+.area__codigo{
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.codigo{
+    display: inline;
+    width: 85%;
+    height: 85%;
+    margin: 0 auto;
+    background-color: black;
+    color: var(--branco);
+    border: 0 solid;
+    border-radius: 8px;
+    background-image: url("/assets/codeArea/mac_buttons.png");
+    background-repeat: no-repeat;
+    background-position: 2% 3%;
+
+}

@@ -1,0 +1,27 @@
+
+
+.menu {
+    margin: 0 2em;
+}
+
+.menu__titulo{
+    color: var(--branco);
+    font-weight: 187;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.menu__link{
+    text-decoration: none;
+}
+
+.botao__link {
+    text-decoration: none;
+    display: flex;
+    padding: 10px 0px;
+}
+
+.menu__texto {
+    color: var(--branco);
+    padding: 13px 13px;
+}
